@@ -39,11 +39,44 @@ Fire Wall
 A firewall is a security system that monitors and controls incoming and outgoing network traffic based on predefined rules.
 
 
-What’s your biggest challenge with networking in DevOps? Drop your thoughts below!
-If you found this guide helpful, share it with your network to help more DevOps beginners!
+DAY 2 : Networking Basics
 
-hashtag#DevOps
-hashtag#Networking
-hashtag#TechForBeginners
-hashtag#LearnDevOps
-hashtag#NetworkingBasics
+IP:
+IP (Internet Protocol) is a set of rules that governs data transfer across networks, assigning unique addresses to devices for communication.
+
+Classes in IP:
+Class A: 1.0.0.0-126.255.255.255
+Class B: 128.0.0.0-191.255.255.255
+Class C: 192.0.0.0-223.255.255.255
+Class D: 224.0.0.0-223.255.255.255
+Class E: 240.0.0.0-255.255.255.255
+
+ARP:
+ARP finds MAC address of a host from its known IP address. It is a Layer 2 protocol. ARP request is a broadcast, but ARP response is unicast.
+ARP is of four types:
+1. ARP
+2. Proxy ARP
+3. Reverse ARP
+4. Gratuitous ARP
+
+FTP(File Transfer Protocol):
+File transfer protocol is an Application layer protocol. To transfer a file, 2 TCP connections are used by FTP in parallel.
+
+DNS(Domain Name System):
+DNS translates human readable domain names into IP addresses. It is an application layer protocol. It uses TCP port 53 and UDP port 53.
+
+
+DAY 3 : Networking Basics
+
+Dynamic Host Configuration Protocol (DHCP):
+DHCP is a network management protocol used to automatically assign IP addresses and other network configuration settings (such as subnet mask, default gateway, and DNS servers) to devices on a network. This eliminates the need for manual IP configuration, making network management more efficient.
+
+Secure Socket Shell(SSL):
+SSL is a cryptographic protocol used to establish a secure and encrypted connection between a web server and a client (such as a browser). It ensures that data transmitted over the internet remains private and protected from hackers.
+
+Transport Layer Security(TLS):
+TLS is a cryptographic protocol that ensures secure communication over a network, preventing eavesdropping, data tampering, and forgery. It is the successor to SSL (Secure Sockets Layer) and is more secure and efficient.
+
+Subnet:
+A subnet or subnetwork is a smaller network inside a large network. Subnetting makes network routing much more efficient.
+
