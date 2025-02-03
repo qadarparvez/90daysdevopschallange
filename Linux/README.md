@@ -60,6 +60,7 @@ passwd username : Change user password
 usermod -aG groupname username : Add user to a group
 deluser username : Delete a user
 groupadd groupname: Create a group
+
 delgroup groupname: Delete a group
 
 
