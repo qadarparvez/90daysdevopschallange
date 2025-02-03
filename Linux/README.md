@@ -9,7 +9,6 @@ Features of Linux:
 4. Multiuser
 
 File System Hierarchy:
-
 /home: home directory for other users.
 /root: It is home directory for root user.
 /boot: It contains bootable files for Linux.
