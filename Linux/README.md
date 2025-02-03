@@ -21,7 +21,6 @@ File System Hierarchy:
 
 
 WEEK 2 : DAY 2 : Linux
-
 Learned some basic Linux commands:
 mkdir my_folder: create a new directory
 mkdir -p folder1/folder2/folder3: create nested directories
