@@ -1,4 +1,4 @@
-WEEK 2 : DAY 1 : Linux
+  WEEK 2 : DAY 1 : Linux
 
 Linux: Linux is a free, open-source operating system (OS) based on Unix. It acts as an interface between computer hardware and software applications, managing system resources like memory, CPU, and storage.
 
@@ -34,4 +34,32 @@ uptime: check system uptime
 whoami: check current username
 chmod 755 file.sh: change file permissions
 chown user:user file.txt: change file ownership
+
+
+WEEK 2 : DAY 3 : Linux
+
+File Permissions:
+r (read) → 4
+w (write) → 2
+x (execute) → 1
+
+Changing Permissions:
+chmod 755 filename 
+chmod u+x filename 
+
+Changing Ownership:
+chown user:group filename
+
+
+User Management
+whoami : Show current user 
+who : Show logged-in users
+id : Show user ID and group ID
+adduser username : Add a new user
+passwd username : Change user password
+usermod -aG groupname username : Add user to a group
+deluser username : Delete a user
+groupadd groupname: Create a group
+delgroup groupname: Delete a group
+
 
