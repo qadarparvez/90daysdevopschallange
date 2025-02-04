@@ -65,7 +65,6 @@ WEEK 2 : DAY 4 : Linux
 Today, I explored web hosting on Linux by creating a simple HTML page using DeepSeek and deploying it on an NGINX server! 🚀
 
 🔹 Created an HTML file with basic content.
-
 🔹 Configured NGINX to serve the page
 🔹 Tested the deployment on a web browser
 
