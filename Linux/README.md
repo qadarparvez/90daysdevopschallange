@@ -60,4 +60,20 @@ deluser username : Delete a user
 groupadd groupname: Create a group
 delgroup groupname: Delete a group
 
+WEEK 2 : DAY 4 : Linux
+
+Today, I explored web hosting on Linux by creating a simple HTML page using DeepSeek and deploying it on an NGINX server! 🚀
+
+🔹 Created an HTML file with basic content.
+
+🔹 Configured NGINX to serve the page
+
+🔹 Tested the deployment on a web browser
+
+This hands-on experience gave me a deeper understanding of web hosting, NGINX configuration, and static file serving in a Linux environment.
+
+Looking forward to more DevOps learning! 💪
+
+hashtag#DevOps hashtag#Linux hashtag#NGINX hashtag#Cloud hashtag#WebHosting hashtag#Learning
+
 
