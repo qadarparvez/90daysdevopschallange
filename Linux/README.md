@@ -67,6 +67,7 @@ Today, I explored web hosting on Linux by creating a simple HTML page using Deep
 🔹 Created an HTML file with basic content.
 
 🔹 Configured NGINX to serve the page
+
 🔹 Tested the deployment on a web browser
 
 This hands-on experience gave me a deeper understanding of web hosting, NGINX configuration, and static file serving in a Linux environment.
