@@ -70,10 +70,19 @@ Today, I explored web hosting on Linux by creating a simple HTML page using Deep
 
 🔹 Tested the deployment on a web browser
 
-This hands-on experience gave me a deeper understanding of web hosting, NGINX configuration, and static file serving in a Linux environment.
+Week 2 of hashtag#90daysdevopschallenge with Shubham Londhe done! 🏆
 
-Looking forward to more DevOps learning! 💪
+This week, I dived deep into Linux System Administration & Automation and explored essential concepts that every DevOps engineer must master. Here’s what I accomplished:
+✅ Managed users & SSH access 🔐
+✅ Set up file permissions & storage volumes 📁
+✅ Analyzed logs using AWK, Grep & Sed 📜
+✅ Automated backups using shell scripting & cron 🛠️
 
-hashtag#DevOps hashtag#Linux hashtag#NGINX hashtag#Cloud hashtag#WebHosting hashtag#Learning
+🔹 Key Learnings:
+ - Effective user & group management ensures security.
+ - File & directory permissions help in access control.
+ - Logs provide crucial insights for troubleshooting.
+ - Automation with shell scripts makes system management efficient!
+
 
 
