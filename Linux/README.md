@@ -20,6 +20,7 @@ File System Hierarchy:
 /dev: Essential device files.
 
 
+
 WEEK 2 : DAY 2 : Linux
 Learned some basic Linux commands:
 mkdir my_folder: create a new directory
