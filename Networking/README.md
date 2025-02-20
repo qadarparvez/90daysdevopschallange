@@ -66,6 +66,7 @@ DNS(Domain Name System):
 DNS translates human readable domain names into IP addresses. It is an application layer protocol. It uses TCP port 53 and UDP port 53.
 
 
+
 DAY 3 : Networking Basics
 
 Dynamic Host Configuration Protocol (DHCP):
