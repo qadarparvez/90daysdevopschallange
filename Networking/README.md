@@ -51,6 +51,7 @@ Class C: 192.0.0.0-223.255.255.255
 Class D: 224.0.0.0-223.255.255.255
 Class E: 240.0.0.0-255.255.255.255
 
+
 ARP:
 ARP finds MAC address of a host from its known IP address. It is a Layer 2 protocol. ARP request is a broadcast, but ARP response is unicast.
 ARP is of four types:
