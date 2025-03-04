@@ -22,7 +22,8 @@ The TCP/IP model, also known as the Internet Protocol Suite, is a simplified ver
 1. Application Layer = (Application Layer + Presentation Layer + Session Layer) 2. Transport Layer
 3. Internet Layer
 4. Network Access Layer (Data Link Layer + Physical Layer)
- 
+
+
 IP
 IP (Internet Protocol) is a set of rules that governs data transfer across networks, assigning unique addresses to devices for communication.
 
