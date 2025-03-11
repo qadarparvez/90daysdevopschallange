@@ -48,7 +48,6 @@ chmod u+x filename
 Changing Ownership:
 chown user:group filename
 
-
 User Management
 whoami : Show current user 
 who : Show logged-in users
