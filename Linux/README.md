@@ -8,6 +8,7 @@ Features of Linux:
 3. Simplified updates for all installed software.
 4. Multiuser
 
+
 File System Hierarchy:
 /home: home directory for other users.
 /root: It is home directory for root user.
