@@ -2,7 +2,6 @@
 
 Linux: Linux is a free, open-source operating system (OS) based on Unix. It acts as an interface between computer hardware and software applications, managing system resources like memory, CPU, and storage.
 
-
 Features of Linux:
 1. Open source
 2. Secure
