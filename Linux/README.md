@@ -71,7 +71,6 @@ Today, I explored web hosting on Linux by creating a simple HTML page using Deep
 
 Week 2 of hashtag#90daysdevopschallenge with Shubham Londhe done! 🏆
 
-
 This week, I dived deep into Linux System Administration & Automation and explored essential concepts that every DevOps engineer must master. Here’s what I accomplished:
 ✅ Managed users & SSH access 🔐
 ✅ Set up file permissions & storage volumes 📁
