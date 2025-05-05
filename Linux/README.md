@@ -34,7 +34,6 @@ chmod 755 file.sh: change file permissions
 chown user:user file.txt: change file ownership
 
 
-
 WEEK 2 : DAY 3 : Linux
 
 File Permissions:
