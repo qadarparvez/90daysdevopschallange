@@ -14,7 +14,6 @@ File System Hierarchy:
 /root: It is home directory for root user.
 /boot: It contains bootable files for Linux.
 /etc: It contains all configuration files.
-
 /usr: By default software are installed in this directory.
 /bin: It contains commands used by all users.
 /sbin: It contains commands used by the root user.
