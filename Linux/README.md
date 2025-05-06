@@ -20,6 +20,7 @@ File System Hierarchy:
 /opt: Optional application software packages.
 /dev: Essential device files.
 
+
 WEEK 2 : DAY 2 : Linux
 Learned some basic Linux commands:
 
