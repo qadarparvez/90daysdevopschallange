@@ -7,7 +7,6 @@ DAY 1 : Networking Basics
 
 The Internet is the largest network in the world and can be called "the network of networks".
 
-
 The OSI model
 The OSI (Open System Interconnection) model is a set of rules that explains how different computer systems communicate over a network. OSI model was developed by the International Organisation for Standardisation (Iso). The OSI model consists of 7 layers and each layer has specific functions and responsibilities:
 1. Physical Layer
