@@ -68,6 +68,7 @@ ARP is of four types:
 FTP(File Transfer Protocol):
 File transfer protocol is an Application layer protocol. To transfer a file, 2 TCP connections are used by FTP in parallel.
 
+
 DNS(Domain Name System):
 DNS translates human readable domain names into IP addresses. It is an application layer protocol. It uses TCP port 53 and UDP port 53.
 
