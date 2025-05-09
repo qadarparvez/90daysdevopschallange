@@ -44,6 +44,7 @@ Switch
 A switch is a networking device that connects multiple devices within a local network and directs data to the correct destination using MAC addresses.
 
 Fire Wall
+
 A firewall is a security system that monitors and controls incoming and outgoing network traffic based on predefined rules.
 
 
