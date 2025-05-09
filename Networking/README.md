@@ -3,6 +3,7 @@
 
 DAY 1 : Networking Basics
 
+
 🌐 When two or more computers and computing devices Connected together with each other through communication channels, such as cables or wireless media and sharing , then it is a network. 
 
 
