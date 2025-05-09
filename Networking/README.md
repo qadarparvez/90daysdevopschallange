@@ -23,6 +23,7 @@ The OSI (Open System Interconnection) model is a set of rules that explains how 
 
 
 The TCP/IP model
+
 The TCP/IP model, also known as the Internet Protocol Suite, is a simplified version of the OSI model with only 4 layers instead of 7.
 
 1. Application Layer = (Application Layer + Presentation Layer + Session Layer) 2. Transport Layer
