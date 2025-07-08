@@ -1,0 +1,41 @@
+🧠 “Wait... what just happened to my code?”
+That one moment of panic — we’ve all been there.
+And that’s when I realized...
+It’s not just about writing code. It’s about protecting it.
+
+
+🚀 Day 22 of hashtag#90DaysDevOpsChallenge
+Week 4 begins: Enter Git. My new time-travel machine. 🌀
+Today, I started learning Git — and honestly?
+I now understand why it’s one of the most powerful tools in DevOps.
+
+
+🔧 What I did today:
+
+ ✅ Initialized a local Git repo
+ ✅ Learned the flow of add → commit → log
+ ✅ Understood how Git snapshots changes
+ ✅ Ran my first ever rollback (yes, it felt like magic)
+ ✅ Finally understood what .git actually stores
+📜 Basic but powerful:
+
+git init
+git add .
+git commit -m "First script tracked!"
+git log --oneline
+
+💡 Biggest takeaway:
+ 👉 If you're working without Git, you're working without a safety net.
+ Even for a single .sh file — version control is peace of mind.
+
+💬 I’d love to know:
+
+ What’s the first thing YOU ever put under Git version control?
+ Was it a messy project? A config file? Something that broke your system? 😅
+ 
+Drop your story or tips in the comments — let’s trade Git lessons today! 👇
+
+hashtag#90DaysDevOpsChallenge hashtag#Git hashtag#VersionControl hashtag#DevOps hashtag#GitHub hashtag#LearnGit hashtag#ShellScripting hashtag#Linux hashtag#OpenToWork hashtag#SaudiDevOps hashtag#ITJobsKSA hashtag#LEAP2025 hashtag#GitCommands hashtag#CloudComputing
+
+📥 Want my Day 1 Git Starter Pack?
+ Comment “GIT ME” and I’ll DM it to you!
