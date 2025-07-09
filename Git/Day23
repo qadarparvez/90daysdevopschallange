@@ -1,0 +1,45 @@
+🧠 “Everything was fine… until I merged.”
+ That was me, today. And that’s why I’m back with Day 23 of hashtag#90DaysDevOpsChallenge — still deep in Git... and this time, it's personal. 😅
+
+
+📌 Today’s topic: Git Branching & Merging
+
+One of the most powerful — and terrifying — features for beginners.
+But once you understand it, Git goes from scary to superpowerful.
+
+
+🔍 What I learned today:
+
+ ✅ Creating and switching branches
+ ✅ Merging changes safely
+ ✅ Avoiding merge conflicts (and surviving them when they happen)
+ ✅ Visualizing history with git log --graph
+ ✅ Using git stash to avoid losing changes mid-switch
+
+
+🧪 Commands I practiced:
+
+git checkout -b feature-branch
+
+git merge main
+
+git stash && git stash pop
+
+git log --graph --oneline
+
+
+💡 Key Takeaway:
+ 
+Branching isn’t just about code. It’s about collaboration.
+Git lets multiple people (or future-you) work on features, fixes, and experiments — without breaking what already works.
+
+💬 Let’s make this interactive:
+
+ What’s the worst merge conflict you’ve ever faced?
+ I’m all ears (and looking for survival tips) 👇
+
+📥 Want a "Git Branching Cheat Sheet" I created from today’s notes?
+ Comment “BRANCH ME” and I’ll DM it to you. 🌿💻
+
+hashtag#Git hashtag#DevOps hashtag#GitBranching hashtag#VersionControl hashtag#90DaysDevOpsChallenge hashtag#LearnGit hashtag#GitHub hashtag#Linux hashtag#OpenToWork hashtag#TechForBeginners hashtag#SaudiDevOps hashtag#ITJobsKSA hashtag#LEAP2025 hashtag#Automation
+
