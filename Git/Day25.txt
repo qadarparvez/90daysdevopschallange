@@ -1,0 +1,38 @@
+🚨 Git taught me more about teamwork than any leadership book ever did.
+💡 Day 25 of hashtag#90DaysDevOpsChallenge — I didn’t just write code today, I resolved conflict.
+ 
+🔥 One feature branch. One merge conflict. One breakthrough.
+Before today, Git was just a version control tool to me.
+
+Now I see it as a collaboration framework — a system that helps developers work together, without stepping on each other’s toes.
+But it only works if you understand one thing: Branches are your friends.
+
+
+🔍 Today’s journey included:
+
+ ✅ Creating a feature branch: git checkout -b feature-login
+ ✅ Switching back to main and merging changes
+ ✅ Facing my first merge conflict and manually resolving it
+ ✅ Using git log and git diff to debug and track progress
+ ✅ Visualizing the entire structure with git log --oneline --graph
+
+
+🧠 Key Realization:
+
+"Merge conflicts don’t mean something’s broken.
+ They mean multiple people are trying to build something — together."
+🔧 Today’s favorite Git commands:
+
+git branch -a
+git merge
+git diff
+git log --oneline --graph
+
+🗣️ Let’s talk:
+ 👉 What was your first merge conflict like?
+ 👉 Do you prefer Git Flow, trunk-based development, or something custom?
+
+Drop your favorite Git tip in the comments — let’s build better together! 👇
+
+
+hashtag#Git hashtag#GitMerge hashtag#GitConflict hashtag#GitFlow hashtag#DevOps hashtag#VersionControl hashtag#GitCommands hashtag#OpenSource hashtag#GitTips hashtag#Teamwork hashtag#CodeCollaboration hashtag#90DaysDevOpsChallenge hashtag#LearnInPublic hashtag#SoftwareEngineering hashtag#CI_CD hashtag#LinkedInDevOps hashtag#Linux hashtag#CodeLife
