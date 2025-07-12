@@ -1,0 +1,36 @@
+💻 One laptop. One push command. One repo now live on GitHub.
+🌍 Today, I crossed the line from learning alone… to collaborating globally.
+📦 Welcome to Git Remotes & Real DevOps.
+
+
+Day 26 of hashtag#90DaysDevOpsChallenge and I finally stepped into the world of real collaboration.
+
+Git is no longer just about saving my work — it’s about syncing with the world, contributing to projects, and working like a true DevOps engineer.
+
+
+🔁 What I practiced today:
+ ✅ Cloned a repository using git clone
+ ✅ Added remotes using git remote add
+ ✅ Pushed changes to GitHub with git push -u origin main
+ ✅ Pulled updates with git pull
+ ✅ Understood the difference between origin and upstream
+ ✅ Forked, edited, and created pull requests like it’s second nature
+
+
+💡 Key realization:
+“Git is more than commits — it’s communication, contribution, and collaboration.”
+🧠 Today’s key commands:
+
+git clone <repo-url>
+git remote -v
+git push -u origin main
+git pull origin main
+git remote add upstream <url>
+💬 Git pros — what’s your go-to workflow?
+ 
+Fork-and-PR, trunk-based, or GitFlow?
+
+Drop your best tip (or horror story) in the comments 👇
+Let’s grow together.
+
+hashtag#Git hashtag#GitHub hashtag#DevOps hashtag#GitWorkflow hashtag#OpenSource hashtag#GitRemotes hashtag#PullRequest hashtag#SoftwareEngineering hashtag#Linux hashtag#90DaysDevOpsChallenge hashtag#VersionControl hashtag#LearnInPublic hashtag#GitTips hashtag#CodeCollaboration hashtag#FromLocalToGlobal
