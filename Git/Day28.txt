@@ -1,0 +1,49 @@
+🔥 “I didn’t just learn Git this week — I became dangerous with it.”
+🚀 Day 28 of hashtag#90DaysDevOpsChallenge
+✅ Week 4: Git & GitHub – COMPLETE
+
+4 weeks ago, I typed git init without knowing what I was getting into.
+Today, I can confidently push, pull, merge, revert, and even fix conflicts without panic 😎
+
+
+💻 Here’s what I conquered in Week 4:
+ 
+ 🔹 Set up local repos and committed like a pro
+ 🔹 Created feature branches and merged with confidence
+ 🔹 Handled real merge conflicts (not fun, but powerful!)
+ 🔹 Used git log, git diff, and git status like a timeline
+ 🔹 Collaborated on GitHub — fork, pull request, review, merge
+ 🔹 Learned the difference between origin and upstream
+ 🔹 Understood how real teams work with Git Flow and trunk-based development
+
+
+💡 Biggest takeaway:
+“Git isn't just about version control — it’s about professional control.”
+ Every commit is proof of progress. Every push is a signal of discipline.
+
+
+🧠 My favorite commands this week:
+
+git checkout -b feature-branch
+git merge main
+git remote add upstream <url>
+git log --graph --oneline
+
+📸 I’ve been documenting everything on GitHub — and now my profile isn’t just a link…
+
+https://lnkd.in/gqXEJbz6
+ 
+👉 It’s a portfolio.
+ 👉 It’s proof of work.
+ 👉 It’s me in public.
+
+
+💬 Let’s make this interactive:
+ 👉 What was your first merge conflict experience like?
+ 👉 Do you follow Git Flow or trunk-based workflows?
+
+ Drop a tip, command, or Git story below 👇
+ Let’s help each other grow — one commit at a time 🚀
+
+
+hashtag#Git hashtag#GitHub hashtag#DevOps hashtag#VersionControl hashtag#OpenSource hashtag#CodeCollaboration hashtag#PullRequest hashtag#90DaysDevOpsChallenge hashtag#GitCommands hashtag#Linux hashtag#LearnInPublic hashtag#FromLocalToGlobal hashtag#TeamWork hashtag#FromDeobandToDevOps hashtag#GitMastery hashtag#SoftwareDevelopment hashtag#OpenToLearn
