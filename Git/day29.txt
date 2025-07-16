@@ -1,0 +1,48 @@
+🚀 Docker isn’t just a buzzword — today, I proved it with real code.
+🐳 I built & deployed a shopping app using Docker — and it worked like magic!
+💥 No more “it works on my machine” — now it works everywhere.
+
+🔹 Day 29 of hashtag#90DaysDevOpsChallenge
+
+Welcome to Week 5 — we’re diving into Docker: the core of containerization, portability, and scalable deployments.
+Instead of just reading docs or running hello-world, I challenged myself to containerize a real-world Node.js project —
+
+👉 Online Shopping App by Shubham Londhe & Md. Afzal Hassan Ehsani
+
+
+🧠 What I Learned by Doing:
+ 
+ ✅ Understood Docker’s layered architecture and image building
+ ✅ Wrote a custom Dockerfile to containerize the Node.js backend
+ ✅ Built an image and tagged it locally
+ ✅ Exposed the container to serve the app on custom ports
+ ✅ Verified the deployed shopping app running inside a container
+ ✅ Learned how logs, volumes, and containers work under the hood
+
+
+📦 Why this felt different:
+
+Reading about Docker is easy. But running a real app inside a container taught me:
+How to think in layers and optimize builds
+How to debug container logs when things fail (they did 😅)
+Why Docker is a game-changer for DevOps pipelines
+
+
+🔧 Commands I used today:
+
+docker build -t shopping-app .
+docker run -d -p 5173:5173 shopping-app
+docker ps
+docker logs <container_id>
+
+📍 Next: I’ll be exploring Docker Compose, multi-container setups, and eventually deploying to cloud!
+
+💬 Have you ever Dockerized a real project?
+
+What was your biggest takeaway when you first touched Docker?
+
+Let’s talk in the comments 👇
+
+ One container at a time — we’re getting closer to DevOps mastery 💪
+
+hashtag#Docker hashtag#DevOps hashtag#90DaysDevOpsChallenge hashtag#Containerization hashtag#GitHubProjects hashtag#LearnByDoing hashtag#CloudNative hashtag#NodeJS hashtag#Deployment hashtag#Linux hashtag#OpenSource hashtag#SoftwareEngineering hashtag#FromDeobandToDevOps hashtag#SaudiDevOps hashtag#OpenToWork hashtag#TechJourney hashtag#Dockerfile hashtag#Containers hashtag#BuildOnceRunAnywhere hashtag#LinkedInDev

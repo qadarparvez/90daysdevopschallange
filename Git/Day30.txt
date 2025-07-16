@@ -1,0 +1,59 @@
+🚀 Day 30 of hashtag#90DaysDevOpsChallenge — 1 Month Complete!
+🐳 Today, I unlocked one of the most powerful tools in a DevOps engineer’s toolkit: Docker Compose.
+
+From managing a single container to orchestrating multi-service applications — this is where real DevOps starts to feel real. 💡
+
+
+💭 Just a few weeks ago, I was learning how to run my first container.
+ It felt amazing — but also overwhelming.
+
+Today, I can spin up an entire multi-tier application — frontend, backend, and database — all with a single YAML file and one command.
+
+That’s the power of Compose.
+
+🔧 What I Built Today:
+ 
+ ✅ Created a docker-compose.yml for the online_shopping_app
+ ✅ Defined services like node-app, mongo, and nginx
+ ✅ Linked containers via Docker’s internal networking
+ ✅ Used .env variables, bind mounts & volumes
+ ✅ Ran docker-compose up -d — and the full app just worked 🤯
+
+
+📦 Why Docker Compose Changed the Game for Me:
+
+No more juggling 3+ docker run commands
+Makes apps portable and production-like
+Perfect for simulating real environments
+Boosts team collaboration and CI/CD pipelines
+Best of all — apps now run consistently across systems!
+
+
+🧠 Commands I Practiced Today:
+
+docker-compose up -d 
+docker-compose ps 
+docker-compose logs 
+docker-compose down
+
+Also explored .env usage, container dependencies, restart policies, and network isolation.
+
+💡 Biggest Lesson Today?
+DevOps isn’t just about commands.
+It’s about designing workflows, orchestrating services, and connecting pieces that just work.
+
+🎯 Wrapping up Month 1 with a huge leap:
+ From single containers to multi-service orchestration using Docker like a pro.
+
+
+🙌 Gratitude Time
+ 🙏 Huge thanks to Shubham Londhe for the constant motivation and mentorship throughout this challenge.
+ 🧠 And big shoutout to Md. Afzal Hassan Ehsani for consistently taking sessions every evening — your efforts don’t go unnoticed.
+
+💬 Your turn!
+ 📌 Have you used Docker Compose in your projects?
+ 📌 What’s a tip or issue that taught you something new?
+
+Let’s share, connect, and help each other grow 👇
+
+hashtag#Docker hashtag#DockerCompose hashtag#DevOps hashtag#90DaysDevOpsChallenge hashtag#Containerization hashtag#Microservices hashtag#Linux hashtag#OpenSource hashtag#InfrastructureAsCode hashtag#CloudNative hashtag#LearnInPublic hashtag#SaudiDevOps hashtag#FromDeobandToDevOps hashtag#BuildInPublic hashtag#TechLearning hashtag#Automation hashtag#NodeJS hashtag#Deployment hashtag#GratitudePost
