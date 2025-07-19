@@ -1,0 +1,43 @@
+🔁 Day 32 & 33 of hashtag#90DaysDevOpsChallenge
+⏱️ Missed a day, but not the mission. Consistency > Perfection.
+Life got in the way yesterday — and that’s okay.
+
+Because showing up again today, stronger and more focused, is what real growth looks like. 💪
+
+🔥 Back to Docker: Two Days, Two Powerful Concepts
+
+📦 Day 32 – Dockerfile Optimization
+Learned how to make Dockerfiles cleaner, smaller, and faster.
+
+ ✅ Used multi-stage builds
+ ✅ Reduced image size from 800MB → 150MB!
+
+🛠 Why it matters?
+ Smaller images = faster deployments + less cost + better performance.
+
+
+🐳 Day 33 – Docker Networking
+Docker containers don’t live in silos — they need to talk!
+Today was all about learning how they do that:
+
+🔹 bridge, host & none networks
+🔹 user-defined bridge networks
+🔹 inter-container communication using --link and docker network connect
+
+
+🌐 I built a 3-tier architecture:
+ Frontend ↔ Backend ↔ Database — all talking through custom bridge networks.
+
+💬 Biggest Realization?
+Containers are not just about isolation — they’re about controlled connectivity.
+
+Mastering this means you're not just running apps — you're orchestrating systems. ⚙️
+
+📌 What’s Next: Docker Volumes & Data Persistence
+
+🙌 Tagging my mentor Shubham Londhe and thanking Md. Afzal Hassan Ehsani for always keeping us on track, even when we fall behind.
+
+💭 How do you handle missed days in your learning journey?
+Let’s normalize breaks. Let’s celebrate comebacks.
+
+hashtag#Docker hashtag#DevOps hashtag#LearningInPublic hashtag#FromDeobandToDevOps hashtag#OpenToWork hashtag#CloudNative hashtag#TechJourney hashtag#SaudiTech hashtag#DevOpsJourney hashtag#Linux hashtag#DockerNetworking hashtag#Microservices hashtag#KubernetesComingSoon hashtag#BuildInPublic
