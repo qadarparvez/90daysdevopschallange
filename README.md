@@ -10,6 +10,7 @@ Each folder contains:
 
 ✅ Notes from real tools (Git, Docker, Jenkins, etc.)
 
+
 ✅ Mini projects and practical examples
 
 ✅ Diagrams and images for better understanding
