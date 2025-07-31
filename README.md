@@ -8,6 +8,7 @@ Each folder contains:
 
 ✅ Commands & code snippets
 
+
 ✅ Notes from real tools (Git, Docker, Jenkins, etc.)
 
 ✅ Mini projects and practical examples
